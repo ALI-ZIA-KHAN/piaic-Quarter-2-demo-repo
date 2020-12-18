@@ -3,6 +3,7 @@ import math
 import random
 
 
+
 #Import the numpy package under the name np
 import numpy as np
 #Create a null vector of size 10
